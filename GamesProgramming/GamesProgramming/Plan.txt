@@ -1,0 +1,38 @@
+Game Concept: "Shadow Echo"
+Premise:
+You play as a character trapped in a haunted ruin where every move you make is echoed back by a 
+ghostly "shadow" version of yourself after a delay — and if it touches you, you die.
+
+Core Mechanics:
+Movement
+
+Top-down or side-scroller
+
+Arrow keys to move
+
+Shadow Clone
+
+Every X seconds, a clone appears and retraces your exact movements from X seconds ago
+
+If it catches up to you = game over
+
+Objective
+
+Reach the exit before your past catches you
+
+Each level is a maze or puzzle that requires thinking ahead
+
+Puzzle Elements
+
+Doors, switches, timed platforms
+
+Use your echo to trigger things, but avoid contact
+
+Possible Expansions:
+Multiple shadows with different delay times
+
+Shadow gets smarter (can shortcut your path)
+
+Light-based mechanics (shadows only appear in darkness)
+
+Narrative/story
